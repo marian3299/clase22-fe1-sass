@@ -1,0 +1,70 @@
+.img-batman {
+  text-align: center;
+}
+
+header h1 {
+  height: 60px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  color: rgb(0, 86, 119);
+  text-align: center;
+  background-color: rgb(196, 196, 196);
+  letter-spacing: 10px;
+  line-height: 60px;
+}
+
+main {
+  padding-bottom: 127px;
+  padding-top: 127px;
+}
+
+section h2 {
+  padding-left: 12.45px;
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+  font-size: 20px;
+  color: rgb(0, 86, 119);
+  background-color: rgb(196, 196, 196);
+  line-height: 30px;
+  height: 30px;
+  letter-spacing: 8px;
+}
+section li {
+  padding-left: 3px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+section li .datos-personales {
+  font-weight: bold;
+  font-style: italic;
+}
+
+dt, dd {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  padding-left: 8px;
+  font-style: normal;
+}
+
+dt span {
+  font-weight: bold;
+}
+
+dd.espacio {
+  padding-left: 45px;
+}
+
+footer {
+  line-height: 37PX;
+  background-color: rgb(0, 86, 119);
+  text-align: center;
+}
+footer p {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 23px;
+  display: inline;
+}
+footer p .img1 {
+  padding-left: 26px;
+}/*# sourceMappingURL=styles.css.map */
